@@ -1,0 +1,7 @@
+
+/* media query */
+@media (max-width:808px){
+    #new_nav{
+       display: none;
+    }
+}
